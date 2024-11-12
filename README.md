@@ -4,7 +4,7 @@ This repo is based on NAAN MUDHALVAN PROJECT - HOUSE RENTING APP.
 LINK REFERENCES
 
 DEMO VIDEO LINK:
-https://drive.google.com/file/d/1acMDwdscr9r25OLo77HvxSCaTe_mHiXI/view?usp=sharing
+https://drive.google.com/file/d/1acMDwdscr9r25OLo77HvxSCaTe_mHiXI/view?usp=view
 
 DOCUMENTATION LINK:
 https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/House%20renting%20app%20Documentation.pdf
