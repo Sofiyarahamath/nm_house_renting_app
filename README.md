@@ -10,3 +10,5 @@ DOCUMENTATION LINK:
 https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/House%20renting%20app%20Documentation.pdf
 
 SCREENSHOTS PDF LINK:
+https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/Screenshots%20of%20Installation%20and%20Execution%20(1).pdf
+
