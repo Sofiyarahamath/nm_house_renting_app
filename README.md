@@ -12,3 +12,5 @@ https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/House%20renting
 SCREENSHOTS PDF LINK:
 https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/Screenshots%20of%20Installation%20and%20Execution%20(1).pdf
 
+PPT LINK:
+https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/House-Rent-Application-using-MERN2.pptx
