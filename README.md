@@ -6,4 +6,7 @@ LINK REFERENCES
 DEMO VIDEO LINK:
 https://drive.google.com/file/d/1acMDwdscr9r25OLo77HvxSCaTe_mHiXI/view?usp=sharing
 
+DOCUMENTATION LINK:
+https://github.com/Sofiyarahamath/nm_house_renting_app/blob/main/House%20renting%20app%20Documentation.pdf
 
+SCREENSHOTS PDF LINK:
